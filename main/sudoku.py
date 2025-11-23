@@ -1,4 +1,4 @@
-# i have a set of variables X = {x1, x2, ___, x_n}
+# i have a set of variables X = {x_1, x_2, ___, x_n}
 # i have a set of domains D = {1, ___, 9}
 #
 # constraints: all different in 3x3
