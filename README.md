@@ -27,7 +27,7 @@ The project just requires Python 3. No external libraries are necessary.
 
 **Instructions**
 
-1. Ensure you are in the main project directory (Sudoku_Solver).
+1. Ensure you are in the main project directory.
 2. Run the main file from your  terminal
 ```
 python3 main.py
