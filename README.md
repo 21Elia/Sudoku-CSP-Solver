@@ -3,7 +3,7 @@
 This project implements a solver for Sudoku puzzles using a Constraint Satisfaction Problem (CSP) approach. 
 The Backtracking Search algorithm is optimized with the implementation of different heuristics to find the solution efficiently.
 
-## Code Documentation
+## Algorithms
 The solution is structured  around the Sudoku class and utilizes a combination of inference and heuristic algorithms to minimize the variable's domain space, meaning reducing search time:
 1. **Inference (Constraint Propagation)**
 - **AC-3 (Arc Consistency Algorithm 3)**: Executed once at the beginning in the `solve()` method to pre-process the puzzle. It reduces the initial domain of the cells, resulting in a significantly slimmer search tree. 
