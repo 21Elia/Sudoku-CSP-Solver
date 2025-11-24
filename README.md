@@ -27,8 +27,8 @@ The project just requires Python 3. No external libraries are necessary.
 
 **Instructions**
 
-1. Ensure you are in the main project directory.
-2. Run the main file from your  terminal
+1. Ensure you are in the main project directory (Sudoku-CSP-Solver-main).
+2. Run the main file from your  terminal using the following command:
 ```
 python3 main.py
 ```
