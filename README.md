@@ -19,7 +19,7 @@ The project just requires Python 3. No external libraries are necessary.
 
 **File Structure**
 ```
-/Sudoku_Solver/
+/Sudoku-CSP-Solver-main/
 ├── main.py        # Execution and testing logic
 ├── Sudoku.py      # The main Sudoku class with CSP algorithms
 └── .gitignore     # Files to ignore (cache, virtual environments, etc.)
